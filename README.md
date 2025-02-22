@@ -36,7 +36,7 @@ What would you like to do?
 
 Project Structure
 📁 Event-Planner-cpp-dsa  
-│── 📄 event_scheduler.cpp   # Main source code  
+│── 📄 maincode.cpp   # Main source code  
 │── 📄 README.md             # Project documentation  
 
 Future Improvements
