@@ -5,8 +5,7 @@
 -**Min Heap (Priority Queue)** → To keep track of the next upcoming event.
 -**Graph (Adjacency List)** → To store dependencies between events.
 -**Topological Sorting** → To ensure dependent events occur in the correct order
-
-A simple **Event Scheduler** that allows users to add, remove, and manage events while handling dependencies between them. The scheduler also checks for cycles in event dependencies and determines a valid execution order.  
+-A simple **Event Scheduler** that allows users to add, remove, and manage events while handling dependencies between them. The scheduler also checks for cycles in event dependencies and determines a valid execution order.  
 
 ## **Features**  
 - **Add Events** with a specific date.  
